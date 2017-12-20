@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44398" started-at="2017-12-05T03:29:55Z" finished-at="2017-12-05T03:30:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44398" started-at="2017-12-05T03:29:55Z" finished-at="2017-12-05T03:30:40Z">
+      <class name="com.selenium.testscripts.TS1">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:com.selenium.testscripts.TS1@28d25987]" name="openApp" is-config="true" duration-ms="30605" started-at="2017-12-05T08:59:55Z" finished-at="2017-12-05T09:00:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="addItemtokart()[pri:0, instance:com.selenium.testscripts.TS1@28d25987]" name="addItemtokart" duration-ms="11809" started-at="2017-12-05T09:00:26Z" finished-at="2017-12-05T09:00:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemtokart -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.selenium.testscripts.TS1@28d25987]" name="teardown" is-config="true" duration-ms="1945" started-at="2017-12-05T09:00:38Z" finished-at="2017-12-05T09:00:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.selenium.testscripts.TS1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
